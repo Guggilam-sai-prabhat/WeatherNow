@@ -9,8 +9,35 @@ WeatherWise is a weather forecast application that provides current weather info
 - Node.js installed on your machine
 
 ### Steps
-1. Clone the repository to your local machine:
-```bash
-git clone <repository_url>
+1. Clone the repository:
+   ```bash
+   git clone repository link
+   cd WeatherNow
+2. Install NPM packages:
+   ```bash
+   npm install
+3. Start the development server:
+   ```bash
+   npm start
+4. Open your browser and go to `http://localhost:5173` to view the application.
 
-2. Navigate to the project directory:
+## Technologies Used
+- React: JavaScript library for building user interfaces.
+- React Icons: Icon library for React applications.
+- react-toastify: Library for displaying toast notifications in React.
+- CSS: Styling language for designing the user interface.
+- OpenWeatherMap API: Weather service API used to fetch weather data.
+
+## Features
+- Display current weather information.
+- Display hourly forecast.
+- Display daily forecast.
+- Search for weather by city name.
+- Get weather updates based on current location.
+
+## Credits
+- Weather data provided by OpenWeatherMap API.
+- Icons provided by React Icons library.
+
+
+
