@@ -1,12 +1,13 @@
-# WeatherWise
+# WeatherNow
 
 ## Description
-WeatherWise is a weather forecast application that provides current weather information, hourly forecasts, and daily forecasts. Users can search for weather by city name or use their current location to get weather updates. The application is built using React and utilizes weather data from a weather service API.
+WeatherNow is a comprehensive weather forecasting application that provides real-time weather data, including hourly and daily forecasts. It allows users to search for weather conditions by city or utilize their current geolocation for updates. The app supports a light and dark mode to suit user preferences at any time of the day.
 
 ## How to Run Locally
 
 ### Prerequisites
 - Node.js installed on your machine
+- npm (Node Package Manager)
 
 ### Steps
 1. Clone the repository:
@@ -40,6 +41,11 @@ WeatherWise is built using React, a popular JavaScript library for building user
 - Get weather updates based on current location.
 - Dark mode and light mode for user interface customization.
 - ![Weather Application Interface](src/assets/1.png)
+
+## How to Use
+After launching the application, you can search for a city using the search bar or enable location services on your device to receive weather updates for your current location. Switch between light and dark mode using the toggle located in the top menu.
+
+
 
 
 ## Credits
