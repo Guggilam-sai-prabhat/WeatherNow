@@ -39,6 +39,8 @@ WeatherWise is built using React, a popular JavaScript library for building user
 - Search for weather by city name.
 - Get weather updates based on current location.
 - Dark mode and light mode for user interface customization.
+- ![Weather Application Interface](src/assests/1.png)
+
 
 ## Credits
 - Weather data provided by OpenWeatherMap API.
