@@ -18,15 +18,19 @@ WeatherWise is a weather forecast application that provides current weather info
    npm install
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
 4. Open your browser and go to `http://localhost:5173` to view the application.
 
-## Technologies Used
+## Approach and Technologies Used
+WeatherWise is built using React, a popular JavaScript library for building user interfaces. It makes use of modern JavaScript features and libraries to provide a smooth and interactive user experience. The key technologies and libraries used in the project include:
+
+
 - React: JavaScript library for building user interfaces.
 - React Icons: Icon library for React applications.
 - react-toastify: Library for displaying toast notifications in React.
-- CSS: Styling language for designing the user interface.
 - OpenWeatherMap API: Weather service API used to fetch weather data.
+- Luxon: Library for working with dates and times in JavaScript.
+- Autoprefixer: Library for automatically adding vendor prefixes to CSS properties.
 
 ## Features
 - Display current weather information.
@@ -34,6 +38,7 @@ WeatherWise is a weather forecast application that provides current weather info
 - Display daily forecast.
 - Search for weather by city name.
 - Get weather updates based on current location.
+- Dark mode and light mode for user interface customization.
 
 ## Credits
 - Weather data provided by OpenWeatherMap API.
